@@ -1,0 +1,17 @@
+.imgIcono{
+	width: 40px;
+}
+.center{
+	text-align: center;
+}
+
+.maxwidth{
+	max-width: 700px;
+}
+.mProducto{
+	margin: 5px;
+}
+
+a{
+	text-decoration: none;
+}
